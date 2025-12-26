@@ -11,5 +11,28 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "data": [
+  {
+    "date": "2025-12-26T00:00:00Z",
+    "description": "Gregorio Y. Zara",
+    "avatar": "https://i.imgur.com/7vQD0fPs.jpg"
+  },
+  {
+    "date": "2025-12-25T00:00:00Z",
+    "description": "Ada Lovelace",
+    "avatar": "https://i.imgur.com/1xLq8xFs.jpg"
+  },
+  {
+    "date": "2025-12-24T00:00:00Z",
+    "description": "Nikola Tesla",
+    "avatar": "https://i.imgur.com/3JrH5pQs.jpg"
+  },
+  {
+    "date": "2025-12-23T00:00:00Z",
+    "description": "Marie Curie",
+    "avatar": "https://i.imgur.com/5hZ8vRs.jpg"
   }
+]
+
 }
